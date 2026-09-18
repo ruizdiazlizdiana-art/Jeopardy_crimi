@@ -6,7 +6,7 @@
                 {
                     "value":100,
                     "question":"ACCIÓN INICIAL Y PRIMORDIAL PARA EVITAR LA CONTAMINACIÓN DE LA ESCENA ANTES DE INGRESAR",
-                    "answer": "¿Qué es el acordonamiento / perímetro de seguridad?"
+                    "answer": "¿Qué es el perímetro de seguridad?"
                 },
                 {
                     "value":200,
@@ -41,7 +41,7 @@
                 {
                     "value":200,
                     "question":"MARCAS EN FORMA DE HÉLICE QUE EL CAÑÓN LE IMPRIME AL PROYECTIL A SU PASO",
-                    "answer": "¿Qué es el estriado / rayado?"
+                    "answer": "¿Qué es el estriado?"
                 },
                 {
                     "value":300,
@@ -80,8 +80,8 @@
                 },
                 {
                     "value":400,
-                    "question":"POLVO REVELADOR APLICADO CON PINCEL DE PELO DE CAMELLO PARA RASTROS EN SUPERFICIES LISAS",
-                    "answer": "¿Qué es el reactivo físico / polvo volcánico?"
+                    "question":"POLVO REVELADOR APLICADO CON PLUMÓN DE PELO DE CAMELLO PARA RASTROS EN SUPERFICIES LISAS",
+                    "answer": "¿Qué es el reactivo físico?"
                 },
                 {
                     "value": 500,
@@ -101,7 +101,7 @@
                 {
                     "value":200,
                     "question":"MANCHAS ROJIZAS O VIOLÁCEAS EN LAS ZONAS DECLIVES DEL CADÁVER POR LA GRAVEDAD DE LA SANGRE",
-                    "answer": "¿Qué son las livideces cadavéricas / Livor Mortis?"
+                    "answer": "¿Qué son las livideces cadavéricas?"
                 },
                 {
                     "value":300,
@@ -146,12 +146,12 @@
                 {
                     "value": 500,
                     "question": "RAMA DE LA MEDICINA LEGAL QUE ESTUDIA LAS PIEZAS DENTARIAS PARA IDENTIFICAR RESTOS HUMANOS",
-                    "answer": "¿Qué es la odontología forense / estomatología?"
+                    "answer": "¿Qué es la odontología forense?"
                 }
             ]
         },
         {
-            "name":"DOCUMENTOSCOPÍA",
+            "name":"DOCUMENTOLOGÍA",
             "questions":[
                 {
                     "value":100,
@@ -183,7 +183,7 @@
     ],
     "double-jeopardy":[
         {
-            "name":"BALÍSTICA AVANZADA",
+            "name":"BALÍSTICA FORENSE",
             "questions":[
                 {
                     "value":200,
@@ -192,7 +192,7 @@
                 },
                 {
                     "value":400,
-                    "question":"ACCIÓN DE INTRODUCIR VARILLAS O BAQUETAS EN LOS ORIFICIOS PARA DETERMINAR ÁNGULOS DE DISPARO EN LA ESCENA",
+                    "question":"ACCIÓN DE INTRODUCIR VARILLAS EN LOS ORIFICIOS PARA DETERMINAR ÁNGULOS DE DISPARO EN LA ESCENA",
                     "answer": "¿Qué es la reconstrucción de trayectorias?"
                 },
                 {
