@@ -1,376 +1,376 @@
 {
     "jeopardy":[
         {
-            "name":"ROBOTS",
+            "name":"LUGAR DEL HECHO",
             "questions":[
                 {
                     "value":100,
-                    "question":"SPOILER ALERT: HIS DYING WORDS IN THE ANIMATED TRANSFORMERS MOVIE ARE  \"TIL ALL ARE ONE\"",
-                    "answer": "Who is Optimus Prime?"
+                    "question":"ACCIÓN INICIAL Y PRIMORDIAL PARA EVITAR LA CONTAMINACIÓN DE LA ESCENA ANTES DE INGRESAR",
+                    "answer": "¿Qué es el acordonamiento / perímetro de seguridad?"
                 },
                 {
                     "value":200,
-                    "question":"THIS ROBOT BOUNTY HUNTER WAS HIRED TO FIND THE MILLENNIUM FALCON IN THE EMPIRE STRIKES BACK",
-                    "answer": "Who is IG-88 or 4-LOM?"
+                    "question":"PRINCIPIO FUNDAMENTAL DE EDMOND LOCARD QUE ESTABLECE QUE TODO CONTACTO DEJA UN RASTRO",
+                    "answer": "¿Qué es el Principio de Intercambio?"
                 },
                 {
                     "value":300,
-                    "question":"ROBOTS B.O.B. AND V.I.N.C.E.N.T. PROVIDED SOME COMIC RELIEF IN THIS DARK 1979 DISNEY SCI-FI FILM",
-                    "answer": "What is The Black Hole?"
+                    "question":"ELEMENTO REGLAMENTADO QUE SE COLOCA JUNTO A LA EVIDENCIA PARA ESTABLECER SU TAMAÑO REAL EN LAS FOTOS",
+                    "answer": "¿Qué es el testigo métrico?"
                 },
                 {
                     "value":400,
-                    "question":"CHRIS JERICHO HOSTED THIS AUTOMATON FIGHTING COMPETITION ON SYFY IN EARLY 2013",
-                    "answer": "What is Robot Combat League?"
+                    "question":"MÉTODO DE BÚSQUEDA ORDENADO DONDE EL PERSONAL AVANZA EN LÍNEA RECTA Y LUEGO EN ÁNGULO RECTO",
+                    "answer": "¿Qué es el método de cuadrícula?"
                 },
                 {
                     "value": 500,
-                    "question": "HE'S THE ROBOT WHO GETS ELECTROCUTED AND COMES TO LIFE IN 1986'S SHORT CIRCUIT",
-                    "answer": "Who is Johnny 5/Number 5?"
+                    "question": "PLANILLA LEGAL QUE REGISTRA CADA MANO QUE TOCA LA EVIDENCIA DESDE SU LEVANTAMIENTO HASTA EL TRIBUNAL",
+                    "answer": "¿Qué es la cadena de custodia?"
                 }
             ]
         },
         {
-            "name":"NICKNAMES",
+            "name":"BALÍSTICA",
             "questions":[
                 {
                     "value":100,
-                   "question":"MINECRAFT CREATOR MARKUS PERSSON IS BETTER KNOWN BY THIS MONOSYLLABIC NICKNAME",
-                    "answer": "What is Notch?"
+                    "question":"PIEZA DEL MECANISMO DE DISPARO QUE GOLPEA EL FULMINANTE DEL CARTUCHO",
+                    "answer": "¿Qué es el percutor?"
                 },
                 {
                     "value":200,
-                   "question":"IT'S THE ALTER EGO OF PENNY ARCADE'S MIKE KRAHULIK - AND THE NAME OF MIKE'S SON",
-                    "answer": "What is Gabe?"
+                    "question":"MARCAS EN FORMA DE HÉLICE QUE EL CAÑÓN LE IMPRIME AL PROYECTIL A SU PASO",
+                    "answer": "¿Qué es el estriado / rayado?"
                 },
                 {
                     "value":300,
-                   "question":"ESPORTSCASTER AND MACHINIMA PERSONALITY RYAN WYATT IS BEST KNOWN BY THIS SHORT NICKNAME",
-                    "answer": "What is Fwiz?"
+                    "question":"ELEMENTO DE BRONCE O LATÓN EXPULSADO POR LA RECÁMARA LUEGO DE EFECTUARSE EL DISPARO",
+                    "answer": "¿Qué es la vaina servida?"
                 },
                 {
                     "value":400,
-                   "question":"IN ADDITION TO \"CLIFFYB\", CLIFF BLESZINSKI IS SOMETIMES KNOWN BY THIS LARGE NICKNAME, BRO",
-                    "answer": "What is Dude Huge?"
+                    "question":"ANILLO DE CONTUSIÓN Y ENJUGAMIENTO QUE SUELE CARACTERIZAR AL ORIFICIO DE ENTRADA EN LA PIEL",
+                    "answer": "¿Qué es el Anillo de Fisch?"
                 },
                 {
                     "value": 500,
-                    "question": "LARRY HRYB BORROWED HIS GAMERTAG, \"MAJOR NELSON\", FROM THIS 1960S SITCOM",
-                    "answer": "What is I Dream of Jeannie?"
+                    "question": "RESIDUOS MACROSCÓPICOS DE PÓLVORA NO COMBUSTIONADA QUE QUEDAN INCRUSTADOS EN UN DISPARO A CORTA DISTANCIA",
+                    "answer": "¿Qué es el tatuaje verdadero?"
                 }
             ]
         },
         {
-            "name":"FAMOUS FIRST WORDS",
+            "name":"HERRAMIENTAS DEL PERITO",
             "questions":[
                 {
                     "value":100,
-                   "question":"\"BITE MY SHINY METAL ASS\"",
-                    "answer": "Who is Bender?"
+                    "question":"ELEMENTO ESTÉRIL CON PUNTA DE ALGODÓN UTILIZADO PARA LEVANTAR MUESTRAS BIOLÓGICAS",
+                    "answer": "¿Qué es el hisopo?"
                 },
                 {
                     "value":200,
-                   "question":"\"WHY, YOU SLIMY, DOUBLE-CROSSING, NO-GOOD SWINDLER. YOU GOT A LOT OF GUTS COMING HERE, AFTER WHAT  YOU PULLED\"",
-                    "answer": "Who is Lando Calrissian?"
+                    "question":"TRAJE DESCARTABLE DE CUERPO ENTERO QUE PROTEGE AL ESPECIALISTA Y A LA ESCENA",
+                    "answer": "¿Qué es el mameluco Tyvek?"
                 },
                 {
                     "value":300,
-                   "question":"\"LISTEN TO MY STORY. THIS MAY BE OUR LAST CHANCE.\"",
-                    "answer": "Who is Tidus?"
+                    "question":"QUÍMICO QUE AL PULVERIZARSE EN LA OSCURIDAD PRODUCE QUIMIOLUMINISCENCIA AL CONTACTO CON SANGRE LAVADA",
+                    "answer": "¿Qué es el Luminol?"
                 },
                 {
                     "value":400,
-                   "question":"\"FARMBOY, POLISH MY HORSE'S SADDLE. I WANT TO SEE MY FACE SHINING IN IT BY MORNING\"",
-                    "answer": "Who is Princess Buttercup?"
+                    "question":"POLVO REVELADOR APLICADO CON PINCEL DE PELO DE CAMELLO PARA RASTROS EN SUPERFICIES LISAS",
+                    "answer": "¿Qué es el reactivo físico / polvo volcánico?"
                 },
                 {
                     "value": 500,
-                    "question": "\"THIS IS IT.  THIS IS WHERE FORRESTAL CASHED IN  HIS CHIPS\"",
-                    "answer": "Who is Indiana Jones?"
+                    "question": "CÁMARA PORTÁTIL QUE UTILIZA VAPORES DE CIANOACRILATO PARA REVELAR RASTROS LATENTES EN EL LUGAR",
+                    "answer": "¿Qué es la cámara MVC Lite?"
                 }
             ]
         },
         {
-            "name":"GOING \"DARK\"",
+            "name":"TANATOLOGÍA",
             "questions":[
                 {
                     "value":100,
-                   "question":"THIS UNFORGIVING ACTION/RPG FROM FROM SOFTWARE TAKES PLACE IN THE KINGDOM OF LORDRAN",
-                    "answer": "What is Dark Souls?"
+                    "question":"PROCESO NATURAL DE ENFRIAMIENTO DEL CUERPO TRAS EL CESE DE LAS FUNCIONES VITALES",
+                    "answer": "¿Qué es el Algor Mortis?"
                 },
                 {
                     "value":200,
-                   "question":"TIM BURTON AND JOHNNY DEPP RESURRECTED THIS LATE-60S VAMPIRE SOAP OPERA AS A COMEDY FILM IN 2012",
-                    "answer": "What is Dark Shadows?"
+                    "question":"MANCHAS ROJIZAS O VIOLÁCEAS EN LAS ZONAS DECLIVES DEL CADÁVER POR LA GRAVEDAD DE LA SANGRE",
+                    "answer": "¿Qué son las livideces cadavéricas / Livor Mortis?"
                 },
                 {
                     "value":300,
-                   "question":"THIS CLASSIC FRANK MILLER GRAPHIC NOVEL FEATURES A BITTER, AGING BATMAN AND A FEMALE ROBIN",
-                    "answer": "What is The Dark Knight Returns?"
+                    "question":"ESTADO DE ENDURECIMIENTO Y RETRACCIÓN MUSCULAR QUE APARECE HORAS DESPUÉS DE LA MUERTE",
+                    "answer": "¿Qué es el Rigor Mortis?"
                 },
                 {
                     "value":400,
-                   "question":"GELFLINGS KIRA AND JEN ESCAPE THE SKEKSIS IN THIS 1982 JIM HENSON CULT FANTASY FAVORITE",
-                    "answer": "What is The Dark Crystal?"
+                    "question":"FASE DE LA PUTREFACCIÓN DONDE APARECE LA MANCHA VERDE ABDOMINAL",
+                    "answer": "¿Qué es el período cromático?"
                 },
                 {
                     "value": 500,
-                    "question": "THE SPIDER-MAN STAGE MUSICAL,  NOW PLAYING  ON BROADWAY, FEATURES THIS UNUSUAL SUBTITLE",
-                    "answer": "What is Turn Off the Dark?"
+                    "question": "DISCIPLINA FORENSE QUE ESTUDIA LOS INSECTOS QUE COLONIZAN EL CUERPO PARA DETERMINAR LA DATA DE MUERTE",
+                    "answer": "¿Qué es la entomología forense?"
                 }
             ]
         },
         {
-            "name":"FICTIONAL COMPANIES",
+            "name":"IDENTIFICACIÓN",
             "questions":[
                 {
                     "value":100,
-                   "question":"YOU CAN BLAME THIS FICTIONAL COMPANY FOR RESIDENT EVIL'S  T-VIRUS",
-                    "answer": "What is Umbrella?"
+                    "question":"SISTEMA INFORMÁTICO AUTOMATIZADO UTILIZADO MUNDIALMENTE PARA COTEJAR HUELLAS DACTILARES",
+                    "answer": "¿Qué es el AFIS?"
                 },
                 {
                     "value":200,
-                   "question":"\"MORE HUMAN THAN HUMAN\" IS THE MOTTO OF THIS REPLICANT MANUFACTURER FROM BLADE RUNNER",
-                    "answer": "What is Tyrell Corporation?"
+                    "question":"ÁCIDO DESOXIRRIBONUCLEICO, LA MOLÉCULA QUE CONTIENE LA INFORMACIÓN GENÉTICA ÚNICA DE CADA INDIVIDUO",
+                    "answer": "¿Qué es el ADN?"
                 },
                 {
                     "value":300,
-                   "question":"MILES DYSON CREATED NEURAL-NET PROCESSORS FOR THIS COMPANY, WHICH ULTIMATELY BUILDS SKYNET",
-                    "answer": "What is Cyberdyne Systems?"
+                    "question":"CREADOR DEL SISTEMA DACTILOSCÓPICO ARGENTINO BASADO EN CUATRO TIPOS FUNDAMENTALES",
+                    "answer": "¿Quién es Juan Vucetich?"
                 },
                 {
                     "value":400,
-                   "question":"THEY OWN ROBOCOP, ED-209, AND THE ENTIRE DETROIT POLICE FORCE",
-                    "answer": "What is Omni Consumer Products/OCP?"
+                    "question":"TIPO FUNDAMENTAL DE HUELLA QUE CARECE TOTALMENTE DE DELTAS EN SU CONFORMACIÓN",
+                    "answer": "¿Qué es el Arco?"
                 },
                 {
                     "value": 500,
-                    "question": "IN TRON, KEVIN FLYNN HACKS HIS WAY INTO THE NETWORK OF THIS FICTIONAL  GAME PUBLISHER",
-                    "answer": "What is Encom?"
+                    "question": "RAMA DE LA MEDICINA LEGAL QUE ESTUDIA LAS PIEZAS DENTARIAS PARA IDENTIFICAR RESTOS HUMANOS",
+                    "answer": "¿Qué es la odontología forense / estomatología?"
                 }
             ]
         },
         {
-            "name":"PAINFULLY OBVIOUS",
+            "name":"DOCUMENTOSCOPÍA",
             "questions":[
                 {
                     "value":100,
-                   "question":"SHE'S THE PRINCESS IN THE CLASSIC RPG THE LEGEND OF ZELDA",
-                    "answer": "Who is Zelda?"
+                    "question":"DISPOSITIVO DE ILUMINACIÓN UTILIZADO PARA DETECTAR FIBRAS Y SELLOS DE SEGURIDAD EN BILLETES FALSOS",
+                    "answer": "¿Qué es la lámpara de luz Ultravioleta (UV)?"
                 },
                 {
                     "value":200,
-                   "question":"BUNGIE'S WORKING TITLE FOR MARATHON WAS MARATHON, BUT ONI'S WORKING TITLE WAS THIS",
-                    "answer": "What is Oni?"
+                    "question":"MANIOBRA DOLOSA DONDE SE MODIFICA UN TEXTO ORIGINAL AGREGANDO TRAZOS O PALABRAS POSTERIORES",
+                    "answer": "¿Qué es una adulteración por agregado?"
                 },
                 {
                     "value":300,
-                   "question":"THIS TWO-BUTTON FIGHTING GAME STARS TWO  GUYS NAMED  KICK AND DIVE",
-                    "answer": "What is Divekick?"
+                    "question":"ESTUDIO DE LOS RASGOS, PRESIÓN Y VELOCIDAD DE LA ESCRITURA PARA DETERMINAR LA AUTORÍA DE UNA FIRMA",
+                    "answer": "¿Qué es la caligrafía forense / grafoscopía?"
                 },
                 {
                     "value":400,
-                   "question":"BRODERBUND'S CASTLE WOLFENSTEIN WAS AN INSPIRATION FOR THIS 1992 FIRST-PERSON SHOOTER FROM ID SOFTWARE",
-                    "answer": "What is Wolfenstein 3D?"
+                    "question":"SURCOS INVISIBLES QUE QUEDAN MARCADOS EN LA HOJA SUBYACENTE POR LA PRESIÓN DEL ELEMENTO ESCRITOR",
+                    "answer": "¿Qué es el calcado / indentación?"
                 },
                 {
                     "value": 500,
-                    "question": "THIS VIDEO GAME CHARACTER  IS BLUE, COLLECTS RINGS,  AND GOES FAST",
-                    "answer": "What is Sonic/Dankey Kang?"
+                    "question": "PROCESO FÍSICO-QUÍMICO MEDIANTE EL CUAL SE ELIMINA LA TINTA ORIGINAL DE UN CHEQUE PARA REESCRIBIRLO",
+                    "answer": "¿Qué es el lavado químico?"
                 }
             ]
         }
     ],
     "double-jeopardy":[
         {
-            "name":"NINTENDO",
+            "name":"BALÍSTICA AVANZADA",
             "questions":[
                 {
                     "value":200,
-                    "question":"VARIANTS OF THIS HANDHELD INCLUDE COLOR, POCKET, ADVANCE, AND MICRO",
-                    "answer": "What is Game Boy?"
+                    "question":"RAMA DE LA BALÍSTICA QUE ESTUDIA LOS FENÓMENOS DENTRO DEL ARMA HASTA QUE EL PROYECTIL ABANDONA LA BOCA",
+                    "answer": "¿Qué es la balística interior?"
                 },
                 {
                     "value":400,
-                    "question":"ORIGINALLY, THE NES VERSION OF PUNCH-OUT!! FEATURED THIS REAL-LIFE BOXER  AS THE END BOSS",
-                    "answer": "Who is Mike Tyson?"
+                    "question":"ACCIÓN DE INTRODUCIR VARILLAS O BAQUETAS EN LOS ORIFICIOS PARA DETERMINAR ÁNGULOS DE DISPARO EN LA ESCENA",
+                    "answer": "¿Qué es la reconstrucción de trayectorias?"
                 },
                 {
                     "value":600,
-                    "question":"MARIO PLAYS THIS SPORT IN THE NORTH AMERICAN PACK-IN GAME FOR THE VIRTUAL BOY",
-                    "answer": "What is tennis?"
+                    "question":"SISTEMA INCORPORADO EN EL CIERRE DEL ARMA QUE DEJA UNA MARCA PECULIAR EN EL CULOTE AL EXTRAER LA VAINA",
+                    "answer": "¿Qué es el extractor / uña extractora?"
                 },
                 {
                     "value":800,
-                    "question":"NINTENDO STARTED OUT MAKING DECKS FOR THIS GAME, THE NAME OF WHICH TRANSLATES TO \"FLOWER CARDS\"",
-                    "answer": "What is hanafuda?"
+                    "question":"MOVIMIENTO DE ROTACIÓN SOBRE SU EJE QUE ADQUIERE EL PROYECTIL GRACIAS A LAS ESTRÍAS",
+                    "answer": "¿Qué es el movimiento giroscópico / de rotación?"
                 },
                 {
                     "value":1000,
-                    "question":"NINTENDO'S COIN-OPERATED MULTI-GAME NES SYSTEM WAS KNOWN BY THIS NAME IN ARCADES",
-                    "answer": "What is the PlayChoice-10?"
+                    "question":"MARCAS SUTILES PARALELAS GENERADAS POR IMPERFECCIONES DEL CAÑÓN UTILIZADAS PARA EL COTEJO IDENTIFICATIVO",
+                    "answer": "¿Qué son las microestrías?"
                 }
             ]
         },
         {
-            "name":"ALLITERATION",
+            "name":"TOXICOLOGÍA FORENSE",
             "questions":[
                 {
                     "value":200,
-                    "question":"WALTER WHITE AND JESSE PINKMAN MAKE METH IN AN RV IN THIS AWARD-WINNING TV DRAMA",
-                    "answer": "What is Breaking Bad?"
+                    "question":"FLUIDO CORPORAL MÁS EXAMINADO EN CONTROLES DE TRÁNSITO Y AUTOPSIAS PARA DETERMINAR EL GRADO DE EBRIEDAD",
+                    "answer": "¿Qué es la sangre?"
                 },
                 {
                     "value":400,
-                    "question":"THE BEHEMOTH RELEASED THIS MEDIEVAL CO-OP BEAT-EM-UP ON XBOX LIVE ARCADE IN AUGUST 2008",
-                    "answer": "What is Castle Crashers?"
+                    "question":"TÓXICO INODORO E INCOLORO RESULTADO DE LA COMBUSTIÓN INCOMPLETA QUE CAUSA MUERTES EN INVIERNO",
+                    "answer": "¿Qué es el monóxido de carbono?"
                 },
                 {
                     "value":600,
-                    "question":"SHE’S NOT JUST TONY STARK’S ASSISTANT - SHE ALSO SUITS UP AS THE ARMORED HERO CALLED RESCUE",
-                    "answer": "Who is Pepper Potts?"
+                    "question":"ALCALOIDE ESTIMULANTE EXTRAÍDO DE UNA HOJA ANDINA, FRECUENTEMENTE INCAUTADO EN FORMATO DE POLVO BLANCO",
+                    "answer": "¿Qué es la cocaína?"
                 },
                 {
                     "value":800,
-                    "question":"THIS EGOTIST WOULD HAVE BEEN GREEN LANTERN  IF THE RING  HADN’T CHOSEN  HAL JORDAN FIRST",
-                    "answer": "Who is Guy Gardner?"
+                    "question":"VENENO DE ACCIÓN RÁPIDA, HISTÓRICAMENTE ASOCIADO AL OLOR A ALMENDRAS AMARGAS",
+                    "answer": "¿Qué es el cianuro?"
                 },
                 {
                     "value":1000,
-                    "question":"THIS VISUAL EFFECTS COMPANY CREATES 3D BODY SCANS FOR MOVIES AS WELL AS JUMBO STAR WARS ACTION FIGURES",
-                    "answer": "What is Gentle Giant?"
+                    "question":"PRUEBA DE LABORATORIO DE ALTA SENSIBILIDAD UTILIZADA PARA SEPARAR E IDENTIFICAR DROGAS COMPLEJAS",
+                    "answer": "¿Qué es la cromatografía?"
                 }
             ]
         },
         {
-            "name":"COMIC ICONS",
+            "name":"EVIDENCIA VISUAL",
             "questions":[
                 {
                     "value":200,
-                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
+                    "question":"MUESTRA DE REFERENCIA MACROSCÓPICA PARA ESTABLECER RELACIONES",
                     "image": "images/flash.png",
-                    "answer": "What is the Flash?"
+                    "answer": "¿Qué es una muestra indubitada?"
                 },
                 {
                     "value":400,
-                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
+                    "question":"PATRÓN QUE PERMITE RECONSTRUIR LA DIRECCIÓN DEL IMPACTO",
                     "image": "images/shield.png",
-                    "answer": "What is S.H.I.E.L.D.?"
+                    "answer": "¿Qué es una fractura en vidrio?"
                 },
                 {
                     "value":600,
-                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
+                    "question":"CAÍDA PERPENDICULAR DE FLUIDO HEMÁTICO POR ACCIÓN DE LA GRAVEDAD",
                     "image": "images/deadpool.png",
-                    "answer": "What is Deadpool?"
+                    "answer": "¿Qué es una mancha de sangre pasiva / goteo estático?"
                 },
                 {
                     "value":800,
-                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
+                    "question":"MARCA DE PRESIÓN DEJADA POR EL PASO DE UN VEHÍCULO",
                     "image": "images/spawn.png",
-                    "answer": "What is Spawn?"
+                    "answer": "¿Qué es una huella de neumático?"
                 },
                 {
                     "value":1000,
-                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
+                    "question":"IMAGEN MICROSCÓPICA DE LA ZONA CENTRAL DE UN PELO",
                     "image": "images/redmist.png",
-                    "answer": "What is The Red Mist?"
+                    "answer": "¿Qué es la médula pilosa?"
                 }
             ]
         },
         {
-            "name":"BRUCE CAMPBELL",
+            "name":"EL DEBIDO PROCESO",
             "questions":[
                 {
                     "value":200,
-                    "question":"BRUCE’S FIRST FILM WITH THIS DIRECTOR WAS THE 1977 SHORT \"IT’S MURDER\"",
-                    "answer": "Who is Sam Raimi?"
+                    "question":"PROFESIONAL CON CONOCIMIENTOS ESPECIALES LLAMADO A INTERVENIR Y OPINAR TÉCNICAMENTE EN UNA CAUSA",
+                    "answer": "¿Qué es el Perito?"
                 },
                 {
                     "value":400,
-                    "question":"IN BUBBA HO-TEP, CAMPBELL FIGHTS  A MUMMY AS A GERIATRIC VERSION OF THIS ROCK  MUSIC LEGEND",
-                    "answer": "Who is Elvis Presley?"
+                    "question":"TÍTULO DEL DOCUMENTO FORMAL DONDE LOS LICENCIADOS PLASMAN SUS OBSERVACIONES Y CONCLUSIONES DEL COTEJO",
+                    "answer": "¿Qué es el Informe Pericial?"
                 },
                 {
                     "value":600,
-                    "question":"BRUCE PLAYED THIS \"KING OF THIEVES\" ON BOTH THE HERCULES & XENA SYNDICATED SERIES",
-                    "answer": "Who is Autolycus?"
+                    "question":"ACTO LEGAL DONDE SE CITA AL ESPECIALISTA PARA QUE DEFIENDA SU TRABAJO DE CAMPO DE FORMA VERBAL",
+                    "answer": "¿Qué es la declaración testimonial / audiencia?"
                 },
                 {
                     "value":800,
-                    "question":"BRUCE STARRED IN JUST 27 EPISODES OF THIS SCI-FI WESTERN SERIES BEFORE FOX CANCELLED IT",
-                    "answer": "What is The Adventures of Brisco County Jr.??"
+                    "question":"ACTO PREVIO A LA DECLARACIÓN DONDE EL PROFESIONAL PROMETE DECIR LA VERDAD ANTE LA LEY",
+                    "answer": "¿Qué es el juramento de ley?"
                 },
                 {
                     "value":1000,
-                    "question":"ON JACK OF ALL TRADES, CAMPBELL PLAYED AMERICAN SPY JACK STILES AND THIS MASKED ALTER EGO",
-                    "answer": "What is The Daring Dragoon?"
+                    "question":"FIGURA DEL DERECHO QUE REPRESENTA AL ESTADO Y LLEVA ADELANTE LA ACUSACIÓN Y LA INVESTIGACIÓN",
+                    "answer": "¿Qué es el Fiscal?"
                 }
             ]
         },
         {
-            "name":"FOUR-LETTER WORDS",
+            "name":"FOTOGRAFÍA FORENSE",
             "questions":[
                 {
                     "value":200,
-                    "question":"IT'S HOMER SIMPSON'S FAVORITE BEER",
-                    "answer": "What is Duff?"
+                    "question":"TOMA FOTOGRÁFICA DESDE UN ÁNGULO DE 90 GRADOS, DE ARRIBA HACIA ABAJO, PARA EVITAR DEFORMACIONES",
+                    "answer": "¿Qué es la toma cenital?"
                 },
                 {
                     "value":400,
-                    "question":"THE NAME OF THIS INTERLOCKING TOY COMES FROM THE DANISH PHRASE FOR \"PLAY WELL\"",
-                    "answer": "What is LEGO?"
+                    "question":"TIPO DE PLANO QUE MUESTRA LA TOTALIDAD DEL LUGAR DEL HECHO Y SUS ACCESOS",
+                    "answer": "¿Qué es el plano general?"
                 },
                 {
                     "value":600,
-                    "question":"THIS 1997 SCI-FI/HORROR FILM ABOUT A MAZE OF MOVING ROOMS WOULD HAVE MADE ERNO RUBIK PROUD",
-                    "answer": "What is Cube?"
+                    "question":"AJUSTE MECÁNICO EN LA LENTE DE LA CÁMARA QUE CONTROLA LA CANTIDAD DE LUZ QUE ENTRA AL SENSOR",
+                    "answer": "¿Qué es el diafragma / apertura?"
                 },
                 {
                     "value":800,
-                    "question":"FACEPUNCH STUDIOS RELEASED AN ALPHA OF THIS MULTIPLAYER SURVIVAL GAME IN DECEMBER 2013",
-                    "answer": "What is Rust?"
+                    "question":"TIPO DE ILUMINACIÓN DE BARRIDO QUE SE COLOCA CASI AL RAS DEL PISO PARA RESALTAR RELIEVES Y HUELLAS DE CALZADO",
+                    "answer": "¿Qué es la luz rasante / oblicua?"
                 },
                 {
                     "value":1000,
-                    "question":"IN 2008, BLACK ROCK STUDIOS CREATED THIS ATV RACING/STUNT GAME FOR DISNEY INTERACTIVE",
-                    "answer": "What is Pure?"
+                    "question":"FOTOGRAFÍA CERRADA DE UN INDICIO AISLADO OCURANDO TODO EL ENCUADRE, SIEMPRE CON TESTIGO MÉTRICO",
+                    "answer": "¿Qué es el primerísimo primer plano?"
                 }
             ]
         },
         {
-            "name":"POTPOURRI",
+            "name":"MANCHAS DE SANGRE",
             "questions":[
                 {
                     "value":200,
-                    "question":"CONTRARY TO REPORTS, THIS 2009 INFINITY WARD SHOOTER WAS NOT BANNED IN RUSSIA – BUT THE AIRPORT LEVEL WAS REMOVED",
-                    "answer": "What is Modern Warfare 2?"
+                    "question":"PATRÓN GENERADO CUANDO LA SANGRE ES IMPULSADA A PRESIÓN DESDE UNA ARTERIA SECCIONADA",
+                    "answer": "¿Qué es la proyección arterial?"
                 },
                 {
                     "value":400,
-                    "question":"DESMOND EXPERIENCES THE MEMORIES OF CONNOR IN THIS REVOLUTIONARY TITLE FROM UBISOFT",
-                    "answer": "What is Assassin's Creed III?"
+                    "question":"MECANISMO POR EL CUAL UN OBJETO ENSANGRENTADO EN MOVIMIENTO DESPRENDE GOTAS EN UNA DIRECCIÓN",
+                    "answer": "¿Qué es el patrón de cast-off / proyección por escurrimiento?"
                 },
                 {
                     "value":600,
-                    "question":"AS \"SUPERMAN’S PAL,\" THIS DC COMICS PHOTOJOURNALIST HAD HIS OWN COMIC FROM 1954 TO 1974",
-                    "answer": "Who is Jimmy Olson?"
+                    "question":"ALTERACIÓN DE UNA MANCHA SANGUÍNEA CAUSADA POR UN OBJETO QUE PASA ARRASTRÁNDOSE SOBRE ELLA",
+                    "answer": "¿Qué es el patrón de arrastre / limpieza?"
                 },
                 {
                     "value":800,
-                    "question":"THE 3DS GAME BASED ON THIS ANIMATED SERIES IS SUBTITLED \"HEY ICE KING! WHY'D YOU STEAL OUR GARBAGE?!\"",
-                    "answer": "What is Adventure Time?"
+                    "question":"DIRECCIÓN ALARGADA QUE APUNTA LA 'COLA' DE UNA GOTA DE SANGRE TRAS IMPACTAR EN UN ÁNGULO",
+                    "answer": "¿Qué es la dirección de desplazamiento / vuelo?"
                 },
                 {
                     "value":1000,
-                    "question":"OTHER SONGS ON THIS BUCKNER & GARCIA ALBUM INCLUDE \"ODE TO A CENTIPEDE\" AND \"DO THE DONKEY KONG\"",
-                    "answer": "What is Pac-Man Fever?"
+                    "question":"ESPACIO VACÍO EN MEDIO DE UN PATRÓN DE SALPICADURAS QUE INDICA QUE UN OBJETO BLOQUEÓ LA SANGRE",
+                    "answer": "¿Qué es el patrón de vacío / void?"
                 }
             ]
         }
     ],
     "final-jeopardy":{
-        "category": "MARVEL MOVIES",
-        "question": "IT WAS THE FIRST FEATURE-LENGTH MARVEL FILM RELEASED IN THEATERS",
-        "answer": "What is Howard the Duck?"
+        "category": "DEFENSA TESTIMONIAL",
+        "question": "ESTRADO EN LA CIUDAD DONDE FRECUENTEMENTE LOS PERITOS SON CONVOCADOS A RATIFICAR SUS INFORMES Y LEVANTAMIENTOS, COMO EL UBICADO EN LA JURISDICCIÓN CORRECCIONAL N° 15",
+        "answer": "¿Qué es un Tribunal Oral en lo Criminal?"
     }
 }
